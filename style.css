@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+}
+
+div{
+    border: 1px solid black;
+
+    width: 30vh;
+    height:25vh;
+    margin-top: 30vh;
+    margin-left: 45%;
+    display: flex;
+    background-color: aliceblue;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
